@@ -29,8 +29,8 @@ function unfriend($id, $token){
 	return $unf;
 }
 
-echo Console::blue("     Facebook Auto Unfriend\n");
-echo Console::blue("        Inactive Users\n\n");
+echo Console::blue("     Facebook Auto Unfriend 2019\n");
+echo Console::blue("               محمد نبيل\n\n");
 
 //INPUT
 echo "Facebook token : ";
